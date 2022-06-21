@@ -4,7 +4,7 @@ import time
 from selenium.common.exceptions import ElementClickInterceptedException
 
 
-CHROME_DRIVER_PATH = '\Users\botez>D:\Udemy_PY_projects\'
+CHROME_DRIVER_PATH = 'C:\Windows\chromedriver_win32'
 SIMILAR_ACOOUNT = 'korbario'
 USERNAME = 'dances_daria@yahoo.ro'
 PASSWORD = 'Mimica2003'
